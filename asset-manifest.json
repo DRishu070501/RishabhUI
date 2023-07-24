@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/RishabhUI/static/css/main.a4838356.css",
+    "main.js": "/RishabhUI/static/js/main.b3cc4f9d.js",
+    "static/js/787.bc7d429a.chunk.js": "/RishabhUI/static/js/787.bc7d429a.chunk.js",
+    "static/media/logo.svg": "/RishabhUI/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RishabhUI/index.html",
+    "main.a4838356.css.map": "/RishabhUI/static/css/main.a4838356.css.map",
+    "main.b3cc4f9d.js.map": "/RishabhUI/static/js/main.b3cc4f9d.js.map",
+    "787.bc7d429a.chunk.js.map": "/RishabhUI/static/js/787.bc7d429a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4838356.css",
+    "static/js/main.b3cc4f9d.js"
+  ]
+}
